@@ -1,12 +1,6 @@
 # Getting-and-Cleaning-Data_courseproject
 coursera course project (Getting and Cleaning Data : Course Project)
 ---
-title: 'Getting and Cleaning Data : Course Project "README"'
-author: "Marina. K"
-date: "2018.10.18"
-output: html_document
----
-
 This is the course project assinment for Getting and Cleaning Data course in Coursera.
 In this project, 
 
