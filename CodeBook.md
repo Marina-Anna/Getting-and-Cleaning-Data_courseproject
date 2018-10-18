@@ -1,4 +1,4 @@
-##Code book
+## Code book
 
 This is the code book for Getting and Clearing Data course's Course Project in Coursera.
 
