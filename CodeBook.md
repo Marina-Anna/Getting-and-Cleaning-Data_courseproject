@@ -1,9 +1,4 @@
----
-title: 'Getting and Clearing Data : Course Project "CodeBook"'
-author: "Marina. K"
-date: "2018.10.18"
-output: html_document
----
+##Code book
 
 This is the code book for Getting and Clearing Data course's Course Project in Coursera.
 
